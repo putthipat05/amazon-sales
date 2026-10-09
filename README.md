@@ -2,6 +2,18 @@
 
 ## Objective
 - To analyze Amazon product performance, customer demand, pricing, discounts, and customer ratings to identify business opportunities and develop data-driven strategies to improve product performance and sales.
+## Table of content
+- Data used
+- Tools
+- Step 1 Cleaning the data and transformation
+- Step 2 Analyze the data
+- Step 3 Dashboard
+- Step 4 Business solution and improvement
+- 
+## Data used
+In this project I used the amazon sales data from Kaggle about how each product have been sold lately.
+More info for the dataset
+- Website(https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 - 
 ## Tools
 - Data sales from kaggle
@@ -14,7 +26,7 @@
 
 ## Business problem
 
--1.Which product characteristics are most strongly associated with high customer engagement and satisfaction, and how do these characteristics differ between high-performing and low-performing products?
+- 1.Which product characteristics are most strongly associated with high customer engagement and satisfaction, and how do these characteristics differ between high-performing and low-performing products?
 - 2.Which product categories have the strongest customer demand, and what characteristics explain their performance compared with low-performing categories?
 - 3.Does a higher discount correspond to higher customer demand, and which discount range is associated with the strongest demand?
 - 4.Among the top 5 categories by customer demand, which categories have the largest gap between market share and product performance, indicating potential growth opportunities?
