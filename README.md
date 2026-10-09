@@ -2,13 +2,16 @@
 
 ## Objective
 - To analyze Amazon product performance, customer demand, pricing, discounts, and customer ratings to identify business opportunities and develop data-driven strategies to improve product performance and sales.
+- 
 ## Tools
 - Data sales from kaggle
 - Python for clean the data
 - SQL for find the inisght
 - PowerBI for vitualization
+- 
 ## Data Architecture 
 <img width="2000" height="1414" alt="Gray White Abstract Page Border A4 (Horizontal)" src="https://github.com/user-attachments/assets/2177ca07-f226-4512-b512-42f4a7782ba8" />
+
 ## Business problem
 
 -1.Which product characteristics are most strongly associated with high customer engagement and satisfaction, and how do these characteristics differ between high-performing and low-performing products?
