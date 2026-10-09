@@ -10,6 +10,7 @@
 ## Data Architecture 
 <img width="2000" height="1414" alt="Gray White Abstract Page Border A4 (Horizontal)" src="https://github.com/user-attachments/assets/2177ca07-f226-4512-b512-42f4a7782ba8" />
 ## Business problem
+
 -1.Which product characteristics are most strongly associated with high customer engagement and satisfaction, and how do these characteristics differ between high-performing and low-performing products?
 - 2.Which product categories have the strongest customer demand, and what characteristics explain their performance compared with low-performing categories?
 - 3.Does a higher discount correspond to higher customer demand, and which discount range is associated with the strongest demand?
