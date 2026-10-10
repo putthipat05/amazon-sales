@@ -25,6 +25,14 @@ To improve the performance of lower-demand categories, I recommend introducing h
 
 The company should test different bundle combinations, monitor customer demand and customer feedback, and evaluate whether the additional sales justify the discounts offered. This would help the business reduce excess inventory while providing customers with greater value for their money.
 
+### 3.Does a higher discount correspond to higher customer demand, and which discount range is associated with the strongest demand?
+
+<img width="868" height="240" alt="3" src="https://github.com/user-attachments/assets/5bca4eea-6095-4e14-ab1c-e7ac001cc236" />
+
+**My business recomendation**
+The comparison between products with the highest discounts and those without any discounts shows noticeable differences in customer demand. Although these differences may partly depend on the products themselves, the findings suggest that promotional discounts can still play an important role in encouraging purchases.
+
+Therefore, I recommend using discounts strategically to attract more customers, particularly for products that may benefit from price reductions. However, the company should evaluate each product's performance before applying discounts broadly, as customer demand may also be influenced by product characteristics. By monitoring changes in customer demand alongside discount levels, the company can identify which products respond best to promotions and develop more effective pricing strategies.
 
 
 
