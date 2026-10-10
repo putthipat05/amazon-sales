@@ -20,7 +20,6 @@ More info for the dataset
 - Python for clean the data
 - SQL for find the inisght
 - PowerBI for vitualization
-  
 ## Data Architecture 
 <img width="2000" height="1414" alt="Gray White Abstract Page Border A4 (Horizontal)" src="https://github.com/user-attachments/assets/2177ca07-f226-4512-b512-42f4a7782ba8" />
 
