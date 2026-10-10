@@ -3,7 +3,7 @@
 ## Objective
 - To analyze Amazon product performance, customer demand, pricing, discounts, and customer ratings to identify business opportunities and develop data-driven strategies to improve product performance and sales.
 ## Table of content
-- [Data used](#Data used)
+- [Data used] (#Data used)
 - [Tools](#Tools)
 - Step 1 [Cleaning the data and transformation](https://github.com/putthipat05/amazon-sales/blob/main/amazon_sales.ipynb)
 - Step 2 Analyze the data
