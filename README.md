@@ -6,7 +6,7 @@
 - [Data used] (#Data used)
 - [Tools](#Tools)
 - Step 1 [Cleaning the data and transformation](https://github.com/putthipat05/amazon-sales/blob/main/amazon_sales.ipynb)
-- Step 2 Analyze the data
+- Step 2 Analyze the data by [SQL](https://github.com/putthipat05/amazon-sales/blob/main/SQLquery1.sql)
 - Step 3 Dashboard
 - Step 4 Business solution and improvement
 ## Data used
