@@ -9,7 +9,6 @@
 - Step 2 Analyze the data
 - Step 3 Dashboard
 - Step 4 Business solution and improvement
-- 
 ## Data used
 In this project I used the amazon sales data from Kaggle about how each product have been sold lately.
 More info for the dataset
