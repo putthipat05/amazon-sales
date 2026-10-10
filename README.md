@@ -14,7 +14,7 @@
 In this project I used the amazon sales data from Kaggle about how each product have been sold lately.
 More info for the dataset
 - Website(https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
-- 
+- CSV(https://github.com/putthipat05/amazon-sales/blob/main/amazon.csv)
 ## Tools
 - Data sales from kaggle
 - Python for clean the data
