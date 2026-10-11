@@ -35,4 +35,34 @@ The comparison between products with the highest discounts and those without any
 Therefore, I recommend using discounts strategically to attract more customers, particularly for products that may benefit from price reductions. However, the company should evaluate each product's performance before applying discounts broadly, as customer demand may also be influenced by product characteristics. By monitoring changes in customer demand alongside discount levels, the company can identify which products respond best to promotions and develop more effective pricing strategies.
 
 
+### 4.Among the top 5 categories by customer demand, which categories have the largest gap between market share and product performance, indicating potential growth opportunities?
+
+<img width="815" height="140" alt="4" src="https://github.com/user-attachments/assets/1b352cd5-2a8c-4242-bb04-268191f73249" />
+
+**My business recommendation**
+As shown in the analysis, electronics continue to dominate customer demand, reinforcing the importance of this category to the business. In my opinion, the electronics market is already substantial and may have further growth potential as AI-powered features become increasingly integrated into electronic products.
+
+Therefore, I recommend conducting further market research to identify emerging customer needs, evaluate demand for AI-enabled products, and determine which product segments offer the greatest growth opportunities. Based on these findings, the company could consider increasing inventory for products with strong demand and growth potential to capture additional sales opportunities while minimizing the risk of overstocking
+
+
+### 5.Which product/category segments combine strong customer satisfaction with low market share, representing the best opportunities for increasing sales?
+
+<img width="777" height="243" alt="5" src="https://github.com/user-attachments/assets/eb408095-294d-43c8-8b8e-2463192d8343" />
+
+**My business recommendation**
+The analysis shows that the Home & Kitchen category has the lowest customer demand and includes products with the lowest ratings. Since kitchen products are part of everyday life, consistently low ratings may indicate potential issues that need further investigation, such as product quality and durability.
+
+I recommend analyzing customer reviews to identify recurring complaints and using these insights to improve product quality standards and durability. Additionally, the company could introduce products at different price points, including budget and premium options, to evaluate how customers respond to differences in price and quality.
+
+By comparing customer ratings and demand across these product options, the company can better understand whether customer dissatisfaction is primarily related to product quality or pricing. These findings would help the business make more informed decisions about product improvements, pricing strategies, and future product offerings.
+
+
+
+
+
+
+
+
+
+
 
